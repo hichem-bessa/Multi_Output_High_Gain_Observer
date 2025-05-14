@@ -17,7 +17,14 @@ This MATLAB project implements a **Generalized High-Gain Observer (GHGO)** for e
 The observer design is based on a generalized high-gain structure that accounts for an additional measurement (speed) and handles noise through a novel LMI formulation ensuring exponential Input-to-State Stability (ISS).
 
 ## 📁 File Structure
-<pre> RadarObserverEstimation/ ├── src/ │ ├── main.m # Main simulation script │ ├── HighGainObserver.m # Observer implementation │ ├── Proj.m # Projection function (if used) ├── data/ │ ├── Ground_Truth_data.mat │ └── Measurement_data.mat └── README.md </pre>
+<pre> RadarObserverEstimation/ 
+    ├── main.m # Main simulation script │
+    ├── HighGainObserver.m # Observer implementation │ 
+    ├── Proj.m # Projection function (if used) 
+    ├── data/ │ 
+        ├── Ground_Truth_data.mat │ 
+        └── Measurement_data.mat 
+    └── README.md </pre>
 ## ▶️ Getting Started
 
 ### Prerequisites

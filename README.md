@@ -18,14 +18,14 @@ The observer design is based on a generalized high-gain structure that accounts 
 
 ## 📁 File Structure
 <pre> RadarObserverEstimation/
-    ├── src/ │
-    ├── main.m # Main simulation script │
-    ├── HighGainObserver.m # Observer implementation │ 
-    ├── Proj.m # Projection function (if used) 
-    ├── data/ │ 
-        ├── Ground_Truth_data.mat │ 
-        └── Measurement_data.mat 
-    └── README.md </pre>
+├── src/
+│ ├── main.m # Main simulation script
+│ ├── HighGainObserver.m # Observer implementation
+│ ├── Proj.m # Projection function (if used)
+├── data/
+│ ├── Ground_Truth_data.mat
+│ └── Measurement_data.mat
+└── README.md </pre>
 ## ▶️ Getting Started
 
 ### Prerequisites

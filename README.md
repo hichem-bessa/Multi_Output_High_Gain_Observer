@@ -21,6 +21,12 @@ The observer design is based on a generalized high-gain structure that accounts 
 ├── src/
 │ ├── main.m # Main simulation script
 │ ├── HighGainObserver.m # Observer implementation
+│ ├── design_observer.m
+│ ├── load_simulation_data.m
+│ ├── load_vehicle_params.m
+│ ├── plot_estimation_results.m
+│ ├── postprocess_estimation.m
+│ ├── preprocess_data.m
 │ ├── Proj.m # Projection function (if used)
 ├── data/
 │ ├── Ground_Truth_data.mat

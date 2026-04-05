@@ -11,8 +11,7 @@ This work was conducted within the framework of the **ArtISMo** project (**ANR-2
 If you use this implementation or the associated methods in your research, please cite the following publication:
 
 > H. Bessafa, A. Zemouche, R. Rajamani, and M. S. Netto, “Radar Sensor-Based Longitudinal Motion Estimation by Using a Generalized High-Gain Observer,” *2024 American Control Conference (ACC)*, Toronto, ON, Canada, 2024.  
-> **Link:** [IEEE Xplore / Conference Proceedings]
-
+> **Link:** https://ieeexplore.ieee.org/document/10644906
 ---
 
 ## 📄 Features

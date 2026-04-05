@@ -1,9 +1,19 @@
 # 🚗 Radar-Based Longitudinal Motion Estimation using a Generalized High-Gain Observer
 
-This MATLAB project implements a **Generalized High-Gain Observer (GHGO)** for estimating the **longitudinal dynamics** (position, velocity, acceleration) of a vehicle using noisy radar measurements. It is based on the 2024 paper:
+This MATLAB project implements a **Generalized High-Gain Observer (GHGO)** for estimating the **longitudinal dynamics** (position, velocity, and acceleration) of a vehicle using noisy radar measurements.
 
-> **"Radar Sensor-Based Longitudinal Motion Estimation by Using a Generalized High-Gain Observer"**  
-> Bessafa et al., American Control Conference (ACC), 2024.
+---
+
+## 🔬 Project Context & Supervision
+This work was conducted within the framework of the **ArtISMo** project (**ANR-20-CE48-0015**) under the supervision of **Professor Ali Zemouche**.
+
+## 📖 Reference
+If you use this implementation or the associated methods in your research, please cite the following publication:
+
+> H. Bessafa, A. Zemouche, R. Rajamani, and M. S. Netto, “Radar Sensor-Based Longitudinal Motion Estimation by Using a Generalized High-Gain Observer,” *2024 American Control Conference (ACC)*, Toronto, ON, Canada, 2024.  
+> **Link:** [IEEE Xplore / Conference Proceedings]
+
+---
 
 ## 📄 Features
 
